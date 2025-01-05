@@ -1,0 +1,36 @@
+* {
+    background-color: #e7dfd8 !important;
+    color: #231f20 !important;
+    font-family: "Atkinson Hyperlegible", serif;
+    font-size: 14px;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+.nume {
+    font-size: 3.5rem !important;
+}
+
+.nume, .nume-insta, h3, h4 {
+    font-family: "DM Serif Display", serif;
+}
+
+.nume-insta {
+    font-weight: bold;
+}
+
+.skill-list-item > span {
+    font-weight: bold;
+}
+
+.menu-items a, .experience, .skill, .dropdown-item, .btn {
+    font-weight: bold !important;
+    text-transform: uppercase;
+    font-size: 1.2rem !important;
+}
+
+.footer-text {
+    font-size: 1.5rem;
+}
